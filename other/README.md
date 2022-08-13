@@ -1,0 +1,1 @@
+このロボットはLEGO spikeプライム(以後spike)、BBC microbit(以後microbit)によって制御され、物体認識はhuskylensとmicrobit間のI2C通信行っており、プログラムを入れる際はspike、microbitの各マイコンに直接プログラムを入れる必要があります。spikeの場合、レゴ® エデュケーション SPIKE™ アプリを使用し、microUSBケーブルを接続し、プログラムをダウンロードしています。またmicrobitの場合、Microsoft MakeCode for micro:bitを使用し、microUSBケーブルでプログラムをダウンロードしています。
