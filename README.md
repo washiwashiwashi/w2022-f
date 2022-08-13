@@ -55,3 +55,8 @@ The system is not that complicated, and it is not difficult to deal with any pro
 1.What huskylens does with color recognition, not object recognition. The reason for this is that when there is a person or object outside the coat, color recognition, as the name implies, recognizes only the color, so the probability of misrecognition is higher. The reason it is not object recognition is that huskylens is not very good when it comes to object recognition.
 
 2.That there is a delay because the microbit and lego spike prime are not directly connected, but the color sensor is reading the color depending on the color of the led and whether it is physically lit. This can't be helped, but in the future, after the competition, we will research if it is possible to connect directly between lego spike prime and microbit, or instead of using lego spike prime itself as a computer, we will use raspberrypi4B for image recognition and arduino for driving. We are thinking of using raspberrypi4B for image recognition and arduino for driving.
+
+## Thoughts on future engineers competitions after
+* Try various single board computers and other equipment without using LEGO products, and try the next competition.
+* Learn image recognition using opencv, etc.
+* Create a self-driving car with machine learning, using tensorflow.
