@@ -3,7 +3,7 @@ Engineering materials
 This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2022.
 
 ## Introduction
-Our team is "Otemon Curiocity. There are two people in our team.
+Our team is "Otemon Curiocity". There are two people in our team.
 * Akimitsu Fujimura/Programmer robot designer
 * Masamu Yasui/Programmer 
 
@@ -37,3 +37,5 @@ The system is not that complicated, and it is not difficult to deal with any pro
 5.In addition, waste was reduced by making some parts with a 3d printer. The reason why only some parts were made with a 3d printer is because there are some parts that cannot be made with lego parts alone, and it is impossible to make them with lego parts alone. Also, to make it easier for the color sensor to read the led, a special container was made, which made it easier to read the led.
 
 6.As you can see in the photo from the bottom of the `v-photo`, it uses differential gears on the rear wheels, and the differential gears are responsible for transmitting the power from the engine to both the left and right wheels, while absorbing the difference in speed between the inside and outside of the curve, so that the car turns smoothly!
+
+7.Why we chose the huskylens camera--we first tried to use raspberry pi to recognize traffic signals using opencv, but we had trouble with the cascade turnouts and were frustrated, then we considered m5stickC, etc., but after considering system We considered using a microbit to run huskylens, considering compatibility, etc., and did. huskylens is accurate, performs well, and is less convenient, although power is only slightly different.
