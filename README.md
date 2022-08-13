@@ -21,7 +21,7 @@ Our team is "Otemon Curiocity". There are two people in our team.
 | LED | To increase the recognition rate of huskylens traffic signals |
 | L motor | Rear wheel motors |
 | M motor | To be used in steering |
-| color sensor | The front color sensor is used to read the color of the coat (blue and orange lines), and the two color sensors in the middle are used to read the rgb led information (blue, green, and red) output from the micro1bit and send commands to the legto spike prime.Therefore,the color sensor would be one of the very important sensors. |
+| color sensor | The front color sensor is used to read the color of the coat (blue and orange lines), and the two color sensors in the middle are used to read the rgb led information (blue, green, and red) output from the microbit and send commands to the legto spike prime.Therefore,the color sensor would be one of the very important sensors. |
 | ultrasonic sensor | Ultrasonic sensors are used to detect and deflect objects. It is located in front of the robot｜
 
 ## The software
