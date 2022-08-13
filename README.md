@@ -32,4 +32,6 @@ The system is not that complicated, and it is not difficult to deal with any pro
 
 3.The robot shall be able to raise the accuracy of signal recognition without misrecognizing traffic signals and the blue and orange lines by installing two leds on the front of the robot.
 
-4.
+4.That the use of lego spike prime will allow it to move smoothly, probably because of the color sensor and the motor's increased performance.
+
+
