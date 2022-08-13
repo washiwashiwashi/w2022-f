@@ -25,4 +25,6 @@ Our team is "Otemon Curiocity. There are two people in our team.
 Since this robot uses spike and microbit, the language is a visual language. spike uses the LEGO® Education SPIKE™ app, MakeCode for micro:bit, and downloads the program.The programs is in `src`.
 
 ## The good thing about this robot
-1.
+1.The robot has a simple structure and the system is not that complicated,
+The system is not that complicated, and it is not difficult to deal with any problems.
+2.When a part breaks down, it can be fixed with LEGO, rather than having to go to the trouble of remaking the main part with a 3d printer.
