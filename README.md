@@ -44,3 +44,7 @@ The system is not that complicated, and it is not difficult to deal with any pro
 7.Why we chose the huskylens camera--we first tried to use raspberry pi to recognize traffic signals using opencv, but we had trouble with the cascade turnouts and were frustrated, then we considered m5stickC, etc., but after considering system We considered using a microbit to run huskylens, considering compatibility, etc., and did. huskylens is accurate, performs well, and is less convenient, although power is only slightly different.
 
 8.The battery is loaded with rechargeable batteries and can be recharged efficiently.
+
+9.The structure from the differential gear to the tire is good, and if the shaft is used as it is, there is a risk that the shaft will be overloaded and break, or that the car will not run smoothly.
+
+10.Strong fixation of tires. A shaft shaped like a nail was used to make it difficult to pull out.
