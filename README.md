@@ -34,4 +34,6 @@ The system is not that complicated, and it is not difficult to deal with any pro
 
 4.That the use of lego spike prime will allow it to move smoothly, probably because of the color sensor and the motor's increased performance.
 
+5.In addition, waste was reduced by making some parts with a 3d printer. The reason why only some parts were made with a 3d printer is because there are some parts that cannot be made with lego parts alone, and it is impossible to make them with lego parts alone. Also, to make it easier for the color sensor to read the led, a special container was made, which made it easier to read the led.
 
+6.
