@@ -48,3 +48,5 @@ The system is not that complicated, and it is not difficult to deal with any pro
 9.The structure from the differential gear to the tire is good, and if the shaft is used as it is, there is a risk that the shaft will be overloaded and break, or that the car will not run smoothly.
 
 10.Strong fixation of tires. A shaft shaped like a nail was used to make it difficult to pull out.
+ 
+11.We used lego spike prime and microbit because the lego spike prime has a good motor that does not easily shift the rotation speed or angle (if it does, it is less than 3 degrees), and the color sensor also has good performance, with high accuracy in color discrimination and thresholds.
