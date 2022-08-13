@@ -29,3 +29,7 @@ Since this robot uses spike and microbit, the language is a visual language. spi
 The system is not that complicated, and it is not difficult to deal with any problems.
 
 2.When a part breaks down, it can be fixed with LEGO, rather than having to go to the trouble of remaking the main part with a 3d printer.
+
+3.The robot shall be able to raise the accuracy of signal recognition without misrecognizing traffic signals and the blue and orange lines by installing two leds on the front of the robot.
+
+4.
