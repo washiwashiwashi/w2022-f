@@ -9,7 +9,7 @@ Our team is "Otemon Curiocity". There are two people in our team.
 * Masamu Yasui/Programmer 
 
 ## About the Robot
-* This self-driving car is mainly made by LEGO, and parts that are not available in LEGO are created using a 3d printer.
+* This self-driving car is mainly made by LEGO, and parts that are not available in LEGO are created using a 3D printer.
 
 ## The hardware
 | what to use | Details |
@@ -31,13 +31,13 @@ Since this robot uses spike and microbit, the language is a visual language. spi
 1.The robot has a simple structure and the system is not that complicated,
 The system is not that complicated, and it is not difficult to deal with any problems.
 
-2.When a part breaks down, it can be fixed with LEGO, rather than having to go to the trouble of remaking the main part with a 3d printer.
+2.When a part breaks down, it can be fixed with LEGO, rather than having to go to the trouble of remaking the main part with a 3D printer.
 
 3.The robot shall be able to raise the accuracy of signal recognition without misrecognizing traffic signals and the blue and orange lines by installing two leds on the front of the robot.
 
 4.That the use of lego spike prime will allow it to move smoothly, probably because of the color sensor and the motor's increased performance.
 
-5.In addition, waste was reduced by making some parts with a 3d printer. The reason why only some parts were made with a 3d printer is because there are some parts that cannot be made with lego parts alone, and it is impossible to make them with lego parts alone. Also, to make it easier for the color sensor to read the led, a special container was made, which made it easier to read the led.
+5.In addition, waste was reduced by making some parts with a 3D printer. The reason why only some parts were made with a 3D printer is because there are some parts that cannot be made with lego parts alone, and it is impossible to make them with lego parts alone. Also, to make it easier for the color sensor to read the led, a special container was made, which made it easier to read the led.
 
 6.As you can see in the photo from the bottom of the `v-photo`, it uses differential gears on the rear wheels, and the differential gears are responsible for transmitting the power from the engine to both the left and right wheels, while absorbing the difference in speed between the inside and outside of the curve, so that the car turns smoothly!
 
